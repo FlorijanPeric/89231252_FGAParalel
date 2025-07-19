@@ -1,0 +1,2 @@
+# 89231252_FGAParalel
+ForceGraphAllocation paralel implementation
